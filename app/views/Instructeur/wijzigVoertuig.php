@@ -52,4 +52,5 @@
     </form>
     <a href="../../overzichtvoertuigen/<?= $data['Id']; ?>">Terug</a>
 </body>
+
 </html>
