@@ -31,5 +31,4 @@
     </table>
     <a href="../../Instructeur/overzichtinstructeur">Terug</a>
 </body>
-
 </html>
