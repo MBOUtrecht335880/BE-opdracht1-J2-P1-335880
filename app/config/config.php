@@ -3,5 +3,5 @@
 define('DB_HOST', 'localhost');
 define('DB_USER', 'root');
 define('DB_PASS', '');
-define('DB_NAME', 'BE-opdracht1');
-define('URLROOT', 'http://www.be-opdracht1.org/');
+define('DB_NAME', 'be-opdracht1');
+define('URLROOT', '');

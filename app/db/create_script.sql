@@ -1,8 +1,8 @@
-DROP DATABASE IF EXISTS `BE-opdracht1`;
+DROP DATABASE IF EXISTS `be-opdracht1`;
 
-CREATE DATABASE IF NOT EXISTS `BE-opdracht1`;
+CREATE DATABASE IF NOT EXISTS `be-opdracht1`;
 
-Use `BE-opdracht1`;
+Use `be-opdracht1`;
 
 DROP TABLE IF EXISTS Instructeur;
 
