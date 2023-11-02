@@ -13,5 +13,4 @@
     <h1><?= $data['title']; ?></h1>
     <a href="<?= URLROOT; ?>/Instructeur/overzichtinstructeur">Instructeurs in dienst</a>
 </body>
-
 </html>
